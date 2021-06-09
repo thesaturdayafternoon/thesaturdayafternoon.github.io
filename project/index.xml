@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Behnaz Bostanipour</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Joint Obfuscation of Location and Its Semantic Information for Privacy Protection</title>
+      <link>/project/jointobfsucation/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/jointobfsucation/</guid>
+      <description>&lt;p&gt;In this work, I introduced a new obfuscation approach, called joint obfuscation for protecting location privacy and semantic location privacy of users in location-based social networks (LBSNs) such as Foursquare and Facebook. In these networks, users can share with each other, their (geographical) locations together with the semantic information associated with their locations. The semantic information captures the type of a location and is usually represented by a semantic tag. Semantic tag sharing increases the threat to users’ location privacy (which is already at risk because of location sharing) and it also puts users’ semantic location privacy at risk. A common solution to protect the location privacy and the semantic location privacy of users in such LBSNs is to obfuscate the location and the semantic tag independently of each other in a so called disjoint obfuscation approach. However, since in this approach the location obfuscation is performed in a semantic-oblivious manner, an adversary can still increase his chance to infer the actual location and the actual semantic tag by exploiting the semantic incompatibility between the obfuscated location and the obfuscated semantic tag.&lt;/p&gt;
+&lt;p&gt;In this work, I addressed this is- sue by proposing a joint obfuscation approach in which the location obfuscation is performed based on the result of the semantic tag obfuscation. I also provided a formal framework for evaluation and comparison of our joint approach with the disjoint approach. In particular, I formalized the both approaches using probability distribution functions and proposed an adversary model that performed inference attacks against users. I presented an implementation of the attacks based on dynamic bayesian network (DBN) models. By running an experimental evaluation on a dataset of real-world user traces collected from six different cities, I showed that in almost all cases (i.e., in different cities and with different obfuscation parameters), the joint approach outperformed the disjoint approach in terms of location privacy protection and the semantic location privacy protection. Based on the evaluation results, I also discussed how different obfuscation parameters and the choice of the city could affect the performance of the obfuscation approaches. In particular, we show how changing these parameters could improved the performance of the joint approach. For the experimental evaluation, I wrote programs in python and shell script and run the evaluations using Google Cloud virtual machines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstractions and Algorithms for Building Proximity-Based Mobile Applications in Mobile Ad Hoc Networks</title>
+      <link>/project/phd-thesis/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phd-thesis/</guid>
+      <description>&lt;p&gt;In this thesis, I introduced a set of programming abstractions and algorithms that can be used for building Proximity-Based Mobile (PBM) applications in mobile ad hoc networks (MANETs). The PBM applications are emerging distributed applications which enable users of mobile devices such as smartphones to interact with other users in a defined range and for a certain time duration for different purposes such as social networking, dating, gaming, driving, etc. For all proposed algorithms in the thesis, I presented a proof of correctness. I also performed realistic simulation-based studies (using ns-2 simulator) to evaluate the performance of algorithms. For these simulations, I wrote programs in different languages such as C++, Java as well as OTCL/TCL and shell scripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Development of a Secure User Access Control for a Sensor Networks Middleware (for GSN project at EPFL)</title>
+      <link>/project/gsn/</link>
+      <pubDate>Fri, 30 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/project/gsn/</guid>
+      <description>&lt;p&gt;During my internship at &lt;a href=&#34;https://www.epfl.ch/labs/lsir/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LSIR-EPFL&lt;/a&gt; a secure access control for a wireless sensor networks middleware called Global Sensor Networks or GSN (see &lt;a href=&#34;https://www.epfl.ch/labs/lsir/global-sensor-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSN page at EPFL&lt;/a&gt;). My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a discretionary access control system,&lt;/li&gt;
+&lt;li&gt;Implemented a secure Web application using Java Servlets and JSP. This Web application
+allows users to sign up, to login, to update their access rights, or to be a group member,&lt;/li&gt;
+&lt;li&gt;Used JavaScript and CSS for user interfaces,&lt;/li&gt;
+&lt;li&gt;Configured SSL/TLS ( including key pair and certificate generation) for the server,&lt;/li&gt;
+&lt;li&gt;Implemented the access control database on Oracle and MySQL platforms,&lt;/li&gt;
+&lt;li&gt;JDBC programming for the interface communicating between access control database and
+the Web application,&lt;/li&gt;
+&lt;li&gt;Wrote a Java API which covers all access control use cases,&lt;/li&gt;
+&lt;li&gt;Presented the work in 3rd GSN conference at SLF institute, July 2010, Davos, Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of an Energy Efficient Opportunistic Routing Protocol for Wireless Sensor Networks (for SensorScope project at EPFL)</title>
+      <link>/project/sensorscope/</link>
+      <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/project/sensorscope/</guid>
+      <description>&lt;p&gt;During my internship at &lt;a href=&#34;https://www.epfl.ch/labs/lcav/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audiovisual Communications Laboratory (LCAV)&lt;/a&gt;, I developed a singlepath routing protocol and an opportunistic anypath routing protocol in nesC (network embedded systems C)/TinyOS for &lt;a href=&#34;https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1020.5816&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SensorScope project&lt;/a&gt;. I executed the two protocols on Tmote sensor motes and compared the results in terms of energy consumption.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securing an Ad hoc Chat</title>
+      <link>/project/securechat/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/project/securechat/</guid>
+      <description>&lt;p&gt;For this optional semester project at LCA-EPFL, I developed a program in Java (J2ME) which provides some security mechanisms (symmetric key encryption, public key encryption, and digital signatures) for an ad hoc chat implemented on mobile devices (J2ME-CLDC/MIDP platform).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sound-based Monitoring of Wireless Sensor Networks</title>
+      <link>/project/soundbased/</link>
+      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/project/soundbased/</guid>
+      <description>&lt;p&gt;My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and developed an innovative tool to facilitate the deployment of wireless sensor networks by using an auditory user interface,&lt;/li&gt;
+&lt;li&gt;Designed distributed algorithms for wireless sensor nodes,&lt;/li&gt;
+&lt;li&gt;Embedded programming in nesC (network embedded systems C)/TinyOS for wireless
+sensor networks using Tinynode sensor motes,&lt;/li&gt;
+&lt;li&gt;Developed a program in PD (Pure Data) for mapping the real time information to audio
+signals, and then adapted PD program to a PDA (Nokia N800),&lt;/li&gt;
+&lt;li&gt;Presented a poster in MICS Conference (Zurich 2008) and wrote an article about it.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of a Multi-client Server for an agricultural management system based on wireless sensor networks ( for COMMON-Sense project at EPFL)</title>
+      <link>/project/multiclientwsn/</link>
+      <pubDate>Sun, 30 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>/project/multiclientwsn/</guid>
+      <description>&lt;p&gt;My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Embedded programming in nesC/TinyOS on Linux using Tinynode sensor motes,&lt;/li&gt;
+&lt;li&gt;Java programming for the interface communicating with the database,&lt;/li&gt;
+&lt;li&gt;Making some modifications on a MySQL database.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How does Anesthesia Change the Complexity of Physiological Signals?</title>
+      <link>/project/rat/</link>
+      <pubDate>Thu, 15 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/project/rat/</guid>
+      <description>&lt;p&gt;During my bachelor semester project at &lt;a href=&#34;https://infoscience.epfl.ch/collection/Infoscience/Research/IC/IINFCOM/LANOS?ln=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LANOS-EPFL&lt;/a&gt;, I studied the dynamical system concept, Taken’s delay embedding theorem and I developed a program in MATLAB for analyzing the change of rat brain, rat heart and rat
+respiratory signals under anesthesia.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

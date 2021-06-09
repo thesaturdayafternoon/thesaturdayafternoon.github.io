@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java programming | Behnaz Bostanipour</title>
+    <link>/tag/java-programming/</link>
+      <atom:link href="/tag/java-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Java programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Java programming</title>
+      <link>/tag/java-programming/</link>
+    </image>
+    
+    <item>
+      <title>Securing an Ad hoc Chat</title>
+      <link>/project/securechat/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/project/securechat/</guid>
+      <description>&lt;p&gt;For this optional semester project at LCA-EPFL, I developed a program in Java (J2ME) which provides some security mechanisms (symmetric key encryption, public key encryption, and digital signatures) for an ad hoc chat implemented on mobile devices (J2ME-CLDC/MIDP platform).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of a Multi-client Server for an agricultural management system based on wireless sensor networks ( for COMMON-Sense project at EPFL)</title>
+      <link>/project/multiclientwsn/</link>
+      <pubDate>Sun, 30 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>/project/multiclientwsn/</guid>
+      <description>&lt;p&gt;My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Embedded programming in nesC/TinyOS on Linux using Tinynode sensor motes,&lt;/li&gt;
+&lt;li&gt;Java programming for the interface communicating with the database,&lt;/li&gt;
+&lt;li&gt;Making some modifications on a MySQL database.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

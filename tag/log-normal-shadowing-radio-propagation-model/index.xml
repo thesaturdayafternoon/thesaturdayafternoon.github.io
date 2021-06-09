@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Log-normal Shadowing Radio Propagation Model | Behnaz Bostanipour</title>
+    <link>/tag/log-normal-shadowing-radio-propagation-model/</link>
+      <atom:link href="/tag/log-normal-shadowing-radio-propagation-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Log-normal Shadowing Radio Propagation Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Log-normal Shadowing Radio Propagation Model</title>
+      <link>/tag/log-normal-shadowing-radio-propagation-model/</link>
+    </image>
+    
+    <item>
+      <title>Abstractions and Algorithms for Building Proximity-Based Mobile Applications in Mobile Ad Hoc Networks</title>
+      <link>/publication/phd-thesis/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective and Efficient Neighbor Detection for Proximity-Based Mobile Applications</title>
+      <link>/publication/compnet2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/compnet2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Neighbor Detection for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2013/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

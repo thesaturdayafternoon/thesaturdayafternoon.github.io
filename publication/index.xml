@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Behnaz Bostanipour</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Joint Obfuscation of Location and Its Semantic Information for Privacy Protection</title>
+      <link>/publication/cose2020/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cose2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Obfuscation for Privacy Protection in Location-Based Social Networks</title>
+      <link>/publication/dpm2020/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dpm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Neighbor Detection Algorithm Based on Multiple Virtual Mobile Nodes for Mobile Ad Hoc Networks</title>
+      <link>/publication/compnet2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/compnet2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstractions and Algorithms for Building Proximity-Based Mobile Applications in Mobile Ad Hoc Networks</title>
+      <link>/publication/phd-thesis/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Detection based on Multiple Virtual Mobile Nodes</title>
+      <link>/publication/pdp2016/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Detection based on Multiple Virtual Mobile Nodes</title>
+      <link>/publication/techreport-2015/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/techreport-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective and Efficient Neighbor Detection for Proximity-Based Mobile Applications</title>
+      <link>/publication/compnet2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/compnet2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Virtual Mobile Nodes for Neighbor Detection in Proximity-based Mobile Applications</title>
+      <link>/publication/nca2014/</link>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Neighbor Detection for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2013/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotcast – A Communication Abstraction for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2012/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicore Lattice-basis Reduction</title>
+      <link>/publication/ms-thesis/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/ms-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making the Invisible Audible: Acoustic Interfaces for the Management of Wireless Sensor Networks</title>
+      <link>/publication/techreport-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/techreport-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

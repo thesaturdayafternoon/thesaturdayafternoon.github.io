@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proximity-Based Mobile (PBM) Applications | Behnaz Bostanipour</title>
+    <link>/tag/proximity-based-mobile-pbm-applications/</link>
+      <atom:link href="/tag/proximity-based-mobile-pbm-applications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Proximity-Based Mobile (PBM) Applications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Proximity-Based Mobile (PBM) Applications</title>
+      <link>/tag/proximity-based-mobile-pbm-applications/</link>
+    </image>
+    
+    <item>
+      <title>Abstractions and Algorithms for Building Proximity-Based Mobile Applications in Mobile Ad Hoc Networks</title>
+      <link>/project/phd-thesis/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phd-thesis/</guid>
+      <description>&lt;p&gt;In this thesis, I introduced a set of programming abstractions and algorithms that can be used for building Proximity-Based Mobile (PBM) applications in mobile ad hoc networks (MANETs). The PBM applications are emerging distributed applications which enable users of mobile devices such as smartphones to interact with other users in a defined range and for a certain time duration for different purposes such as social networking, dating, gaming, driving, etc. For all proposed algorithms in the thesis, I presented a proof of correctness. I also performed realistic simulation-based studies (using ns-2 simulator) to evaluate the performance of algorithms. For these simulations, I wrote programs in different languages such as C++, Java as well as OTCL/TCL and shell scripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstractions and Algorithms for Building Proximity-Based Mobile Applications in Mobile Ad Hoc Networks</title>
+      <link>/publication/phd-thesis/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

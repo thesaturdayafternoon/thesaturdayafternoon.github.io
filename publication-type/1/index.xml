@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Behnaz Bostanipour</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Joint Obfuscation for Privacy Protection in Location-Based Social Networks</title>
+      <link>/publication/dpm2020/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dpm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Detection based on Multiple Virtual Mobile Nodes</title>
+      <link>/publication/pdp2016/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Virtual Mobile Nodes for Neighbor Detection in Proximity-based Mobile Applications</title>
+      <link>/publication/nca2014/</link>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Neighbor Detection for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2013/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotcast – A Communication Abstraction for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2012/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

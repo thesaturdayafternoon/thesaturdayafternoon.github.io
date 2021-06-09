@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB | Behnaz Bostanipour</title>
+    <link>/tag/matlab/</link>
+      <atom:link href="/tag/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <description>MATLAB</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>MATLAB</title>
+      <link>/tag/matlab/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Specialization by Stanford University</title>
+      <link>/certification/machine-learning-specialization-by-stanford-university/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/certification/machine-learning-specialization-by-stanford-university/</guid>
+      <description>&lt;p&gt;In this thesis, I introduced a set of programming abstractions and algorithms that can be used for building Proximity-Based Mobile (PBM) applications in mobile ad hoc networks (MANETs). The PBM applications are emerging distributed applications which enable users of mobile devices such as smartphones to interact with other users in a defined range and for a certain time duration for different purposes such as social networking, dating, gaming, driving, etc. For all proposed algorithms in the thesis, I presented a proof of correctness. I also performed realistic simulation-based studies (using ns-2 simulator) to evaluate the performance of algorithms. For these simulations, I wrote programs in different languages such as C++, Java as well as OTCL/TCL and shell scripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How does Anesthesia Change the Complexity of Physiological Signals?</title>
+      <link>/project/rat/</link>
+      <pubDate>Thu, 15 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/project/rat/</guid>
+      <description>&lt;p&gt;During my bachelor semester project at &lt;a href=&#34;https://infoscience.epfl.ch/collection/Infoscience/Research/IC/IINFCOM/LANOS?ln=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LANOS-EPFL&lt;/a&gt;, I studied the dynamical system concept, Taken’s delay embedding theorem and I developed a program in MATLAB for analyzing the change of rat brain, rat heart and rat
+respiratory signals under anesthesia.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

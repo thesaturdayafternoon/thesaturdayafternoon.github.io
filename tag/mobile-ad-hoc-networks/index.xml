@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobile ad hoc networks | Behnaz Bostanipour</title>
+    <link>/tag/mobile-ad-hoc-networks/</link>
+      <atom:link href="/tag/mobile-ad-hoc-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>mobile ad hoc networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>mobile ad hoc networks</title>
+      <link>/tag/mobile-ad-hoc-networks/</link>
+    </image>
+    
+    <item>
+      <title>A Neighbor Detection Algorithm Based on Multiple Virtual Mobile Nodes for Mobile Ad Hoc Networks</title>
+      <link>/publication/compnet2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/compnet2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Detection based on Multiple Virtual Mobile Nodes</title>
+      <link>/publication/pdp2016/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Detection based on Multiple Virtual Mobile Nodes</title>
+      <link>/publication/techreport-2015/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/techreport-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective and Efficient Neighbor Detection for Proximity-Based Mobile Applications</title>
+      <link>/publication/compnet2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/compnet2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Virtual Mobile Nodes for Neighbor Detection in Proximity-based Mobile Applications</title>
+      <link>/publication/nca2014/</link>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Neighbor Detection for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2013/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotcast – A Communication Abstraction for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2012/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distributed Algorithms | Behnaz Bostanipour</title>
+    <link>/tag/distributed-algorithms/</link>
+      <atom:link href="/tag/distributed-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Distributed Algorithms</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Distributed Algorithms</title>
+      <link>/tag/distributed-algorithms/</link>
+    </image>
+    
+    <item>
+      <title>A Neighbor Detection Algorithm Based on Multiple Virtual Mobile Nodes for Mobile Ad Hoc Networks</title>
+      <link>/publication/compnet2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/compnet2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstractions and Algorithms for Building Proximity-Based Mobile Applications in Mobile Ad Hoc Networks</title>
+      <link>/project/phd-thesis/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phd-thesis/</guid>
+      <description>&lt;p&gt;In this thesis, I introduced a set of programming abstractions and algorithms that can be used for building Proximity-Based Mobile (PBM) applications in mobile ad hoc networks (MANETs). The PBM applications are emerging distributed applications which enable users of mobile devices such as smartphones to interact with other users in a defined range and for a certain time duration for different purposes such as social networking, dating, gaming, driving, etc. For all proposed algorithms in the thesis, I presented a proof of correctness. I also performed realistic simulation-based studies (using ns-2 simulator) to evaluate the performance of algorithms. For these simulations, I wrote programs in different languages such as C++, Java as well as OTCL/TCL and shell scripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstractions and Algorithms for Building Proximity-Based Mobile Applications in Mobile Ad Hoc Networks</title>
+      <link>/publication/phd-thesis/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Detection based on Multiple Virtual Mobile Nodes</title>
+      <link>/publication/pdp2016/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Detection based on Multiple Virtual Mobile Nodes</title>
+      <link>/publication/techreport-2015/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/techreport-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective and Efficient Neighbor Detection for Proximity-Based Mobile Applications</title>
+      <link>/publication/compnet2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/compnet2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Virtual Mobile Nodes for Neighbor Detection in Proximity-based Mobile Applications</title>
+      <link>/publication/nca2014/</link>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Neighbor Detection for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2013/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotcast – A Communication Abstraction for Proximity-based Mobile Applications</title>
+      <link>/publication/nca2012/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/nca2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound-based Monitoring of Wireless Sensor Networks</title>
+      <link>/project/soundbased/</link>
+      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/project/soundbased/</guid>
+      <description>&lt;p&gt;My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and developed an innovative tool to facilitate the deployment of wireless sensor networks by using an auditory user interface,&lt;/li&gt;
+&lt;li&gt;Designed distributed algorithms for wireless sensor nodes,&lt;/li&gt;
+&lt;li&gt;Embedded programming in nesC (network embedded systems C)/TinyOS for wireless
+sensor networks using Tinynode sensor motes,&lt;/li&gt;
+&lt;li&gt;Developed a program in PD (Pure Data) for mapping the real time information to audio
+signals, and then adapted PD program to a PDA (Nokia N800),&lt;/li&gt;
+&lt;li&gt;Presented a poster in MICS Conference (Zurich 2008) and wrote an article about it.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

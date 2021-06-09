@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Behnaz Bostanipour</title>
+    <link>/tag/data-science/</link>
+      <atom:link href="/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science</title>
+      <link>/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Joint Obfuscation of Location and Its Semantic Information for Privacy Protection</title>
+      <link>/project/jointobfsucation/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/jointobfsucation/</guid>
+      <description>&lt;p&gt;In this work, I introduced a new obfuscation approach, called joint obfuscation for protecting location privacy and semantic location privacy of users in location-based social networks (LBSNs) such as Foursquare and Facebook. In these networks, users can share with each other, their (geographical) locations together with the semantic information associated with their locations. The semantic information captures the type of a location and is usually represented by a semantic tag. Semantic tag sharing increases the threat to users’ location privacy (which is already at risk because of location sharing) and it also puts users’ semantic location privacy at risk. A common solution to protect the location privacy and the semantic location privacy of users in such LBSNs is to obfuscate the location and the semantic tag independently of each other in a so called disjoint obfuscation approach. However, since in this approach the location obfuscation is performed in a semantic-oblivious manner, an adversary can still increase his chance to infer the actual location and the actual semantic tag by exploiting the semantic incompatibility between the obfuscated location and the obfuscated semantic tag.&lt;/p&gt;
+&lt;p&gt;In this work, I addressed this is- sue by proposing a joint obfuscation approach in which the location obfuscation is performed based on the result of the semantic tag obfuscation. I also provided a formal framework for evaluation and comparison of our joint approach with the disjoint approach. In particular, I formalized the both approaches using probability distribution functions and proposed an adversary model that performed inference attacks against users. I presented an implementation of the attacks based on dynamic bayesian network (DBN) models. By running an experimental evaluation on a dataset of real-world user traces collected from six different cities, I showed that in almost all cases (i.e., in different cities and with different obfuscation parameters), the joint approach outperformed the disjoint approach in terms of location privacy protection and the semantic location privacy protection. Based on the evaluation results, I also discussed how different obfuscation parameters and the choice of the city could affect the performance of the obfuscation approaches. In particular, we show how changing these parameters could improved the performance of the joint approach. For the experimental evaluation, I wrote programs in python and shell script and run the evaluations using Google Cloud virtual machines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Development of a Secure User Access Control for a Sensor Networks Middleware (for GSN project at EPFL)</title>
+      <link>/project/gsn/</link>
+      <pubDate>Fri, 30 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/project/gsn/</guid>
+      <description>&lt;p&gt;During my internship at &lt;a href=&#34;https://www.epfl.ch/labs/lsir/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LSIR-EPFL&lt;/a&gt; a secure access control for a wireless sensor networks middleware called Global Sensor Networks or GSN (see &lt;a href=&#34;https://www.epfl.ch/labs/lsir/global-sensor-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSN page at EPFL&lt;/a&gt;). My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a discretionary access control system,&lt;/li&gt;
+&lt;li&gt;Implemented a secure Web application using Java Servlets and JSP. This Web application
+allows users to sign up, to login, to update their access rights, or to be a group member,&lt;/li&gt;
+&lt;li&gt;Used JavaScript and CSS for user interfaces,&lt;/li&gt;
+&lt;li&gt;Configured SSL/TLS ( including key pair and certificate generation) for the server,&lt;/li&gt;
+&lt;li&gt;Implemented the access control database on Oracle and MySQL platforms,&lt;/li&gt;
+&lt;li&gt;JDBC programming for the interface communicating between access control database and
+the Web application,&lt;/li&gt;
+&lt;li&gt;Wrote a Java API which covers all access control use cases,&lt;/li&gt;
+&lt;li&gt;Presented the work in 3rd GSN conference at SLF institute, July 2010, Davos, Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

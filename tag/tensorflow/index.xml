@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TensorFlow | Behnaz Bostanipour</title>
+    <link>/tag/tensorflow/</link>
+      <atom:link href="/tag/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <description>TensorFlow</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>TensorFlow</title>
+      <link>/tag/tensorflow/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Specilaization</title>
+      <link>/certification/deep-learning-specilaization/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/certification/deep-learning-specilaization/</guid>
+      <description>&lt;p&gt;The specialization included the five following coursers: (1) Neural Networks and Deep Learning; (2) Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization; (3) Structuring Machine Learning Projects; (4) Convolutional Neural Networks (CNNs); (5) Sequence Models and Recurrent Neural Networks (RNNs). The assignments were implemented using PyTorch, TensorFlow/Keras.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow Developer Professional Certificate</title>
+      <link>/certification/tensorflow-developer-professional-certificate-/</link>
+      <pubDate>Fri, 30 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/certification/tensorflow-developer-professional-certificate-/</guid>
+      <description>&lt;p&gt;During my internship at &lt;a href=&#34;https://www.epfl.ch/labs/lsir/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LSIR-EPFL&lt;/a&gt; a secure access control for a wireless sensor networks middleware called Global Sensor Networks or GSN (see &lt;a href=&#34;https://www.epfl.ch/labs/lsir/global-sensor-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSN page at EPFL&lt;/a&gt;). My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a discretionary access control system,&lt;/li&gt;
+&lt;li&gt;Implemented a secure Web application using Java Servlets and JSP. This Web application
+allows users to sign up, to login, to update their access rights, or to be a group member,&lt;/li&gt;
+&lt;li&gt;Used JavaScript and CSS for user interfaces,&lt;/li&gt;
+&lt;li&gt;Configured SSL/TLS ( including key pair and certificate generation) for the server,&lt;/li&gt;
+&lt;li&gt;Implemented the access control database on Oracle and MySQL platforms,&lt;/li&gt;
+&lt;li&gt;JDBC programming for the interface communicating between access control database and
+the Web application,&lt;/li&gt;
+&lt;li&gt;Wrote a Java API which covers all access control use cases,&lt;/li&gt;
+&lt;li&gt;Presented the work in 3rd GSN conference at SLF institute, July 2010, Davos, Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow-Advanced Techniques Specialization</title>
+      <link>/certification/tensorflow-advanced-techniques-specialization/</link>
+      <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/certification/tensorflow-advanced-techniques-specialization/</guid>
+      <description>&lt;p&gt;During my internship at &lt;a href=&#34;https://www.epfl.ch/labs/lcav/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audiovisual Communications Laboratory (LCAV)&lt;/a&gt;, I developed a singlepath routing protocol and an opportunistic anypath routing protocol in nesC (network embedded systems C)/TinyOS for &lt;a href=&#34;https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1020.5816&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SensorScope project&lt;/a&gt;. I executed the two protocols on Tmote sensor motes and compared the results in terms of energy consumption.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow-Data and Deployment Specialization</title>
+      <link>/certification/tensorflow-data-and-deployment-specialization/</link>
+      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/certification/tensorflow-data-and-deployment-specialization/</guid>
+      <description>&lt;p&gt;My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and developed an innovative tool to facilitate the deployment of wireless sensor networks by using an auditory user interface,&lt;/li&gt;
+&lt;li&gt;Designed distributed algorithms for wireless sensor nodes,&lt;/li&gt;
+&lt;li&gt;Embedded programming in nesC (network embedded systems C)/TinyOS for wireless
+sensor networks using Tinynode sensor motes,&lt;/li&gt;
+&lt;li&gt;Developed a program in PD (Pure Data) for mapping the real time information to audio
+signals, and then adapted PD program to a PDA (Nokia N800),&lt;/li&gt;
+&lt;li&gt;Presented a poster in MICS Conference (Zurich 2008) and wrote an article about it.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow 2 for Deep Learning Specialization by Imperial College London</title>
+      <link>/certification/tensorflow-2-for-deep-learning-specialization-by-imperial-college-london/</link>
+      <pubDate>Sun, 30 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>/certification/tensorflow-2-for-deep-learning-specialization-by-imperial-college-london/</guid>
+      <description>&lt;p&gt;My main tasks were the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Embedded programming in nesC/TinyOS on Linux using Tinynode sensor motes,&lt;/li&gt;
+&lt;li&gt;Java programming for the interface communicating with the database,&lt;/li&gt;
+&lt;li&gt;Making some modifications on a MySQL database.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

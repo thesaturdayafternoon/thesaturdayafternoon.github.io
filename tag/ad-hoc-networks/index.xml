@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ad hoc networks | Behnaz Bostanipour</title>
+    <link>/tag/ad-hoc-networks/</link>
+      <atom:link href="/tag/ad-hoc-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>ad hoc networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ad hoc networks</title>
+      <link>/tag/ad-hoc-networks/</link>
+    </image>
+    
+    <item>
+      <title>Development of an Energy Efficient Opportunistic Routing Protocol for Wireless Sensor Networks (for SensorScope project at EPFL)</title>
+      <link>/project/sensorscope/</link>
+      <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/project/sensorscope/</guid>
+      <description>&lt;p&gt;During my internship at &lt;a href=&#34;https://www.epfl.ch/labs/lcav/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audiovisual Communications Laboratory (LCAV)&lt;/a&gt;, I developed a singlepath routing protocol and an opportunistic anypath routing protocol in nesC (network embedded systems C)/TinyOS for &lt;a href=&#34;https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1020.5816&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SensorScope project&lt;/a&gt;. I executed the two protocols on Tmote sensor motes and compared the results in terms of energy consumption.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securing an Ad hoc Chat</title>
+      <link>/project/securechat/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/project/securechat/</guid>
+      <description>&lt;p&gt;For this optional semester project at LCA-EPFL, I developed a program in Java (J2ME) which provides some security mechanisms (symmetric key encryption, public key encryption, and digital signatures) for an ad hoc chat implemented on mobile devices (J2ME-CLDC/MIDP platform).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making the Invisible Audible: Acoustic Interfaces for the Management of Wireless Sensor Networks</title>
+      <link>/publication/techreport-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/techreport-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
