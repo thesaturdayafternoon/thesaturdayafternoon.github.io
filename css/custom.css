@@ -8,9 +8,3 @@
     width: 100% !important;
   }
 }
-
-.about-widgets .ul-interests li {
-  width: 100% !important; /* Forces each interest to take up the full available column width */
-  white-space: normal;    /* Allows natural, clean line breaking if text is long */
-  margin-bottom: 0.5rem;   /* Adds consistent spacing between stacked items */
-}
