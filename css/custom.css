@@ -1,0 +1,10 @@
+/* Expand Interests & Education blocks to flat full row lines */
+@media (min-width: 992px) {
+  .home-about-widget .col-md-6 {
+    -webkit-box-flex: 0 !important;
+    -ms-flex: 0 0 100% !important;
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+}
