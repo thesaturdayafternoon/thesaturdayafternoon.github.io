@@ -1,10 +1,19 @@
-/* Expand Interests & Education blocks to flat full row lines */
-@media (min-width: 992px) {
-  .home-about-widget .col-md-6 {
-    -webkit-box-flex: 0 !important;
-    -ms-flex: 0 0 100% !important;
-    flex: 0 0 100% !important;
-    max-width: 100% !important;
-    width: 100% !important;
-  }
+/* Target both potential legacy widget class wrappers */
+.about-widget .col-md-6,
+.widget-about .col-md-6,
+.about-widget .col-md-7,
+.widget-about .col-md-7 {
+  -webkit-box-flex: 0 !important;
+  -ms-flex: 0 0 100% !important;
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Force the interests ul element to scale beautifully across the new space */
+.ul-interests {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
+  gap: 12px !important;
+  padding-left: 0 !important;
 }
